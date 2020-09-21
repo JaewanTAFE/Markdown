@@ -10,4 +10,4 @@ _JaewanTAFE - Italic_
   * Item 2a
   * Item 2b
 
-[GitHub](http://github.com)
+[GitHub.com](http://github.com)
